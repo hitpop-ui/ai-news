@@ -47,4 +47,10 @@
 - 注目点: 話題のAIツール、バズっている技術トピック
 - 頻度: 毎日確認
 
+### OpenAI Blog
+- URL: https://openai.com/news
+- 取得方法: WebFetch
+- 注目点: ChatGPTの新機能・モデルリリース・API変更
+- 頻度: 毎日確認
+
 ## 将来追加候補
