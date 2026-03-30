@@ -47,10 +47,17 @@
 - 注目点: 話題のAIツール、バズっている技術トピック
 - 頻度: 毎日確認
 
-### OpenAI Blog
-- URL: https://openai.com/news
+### OpenAI / ChatGPT
+- URL（優先）: https://releasebot.io/updates/openai
+- URL（フォールバック）: https://openai.com/news
+- 取得方法: WebFetch（公式は403のためreleasebot.io優先）
+- 注目点: 新モデル、新機能、API変更、ChatGPT Business/Enterpriseのチーム向け変更
+- 頻度: 毎日確認
+
+### OpenClaw（OSSエージェント）
+- URL: https://github.com/openclaw
 - 取得方法: WebFetch
-- 注目点: ChatGPTの新機能・モデルリリース・API変更
+- 注目点: GitHub急成長中のOSSエージェント。新機能・スター数の伸び・実用性
 - 頻度: 毎日確認
 
 ## 将来追加候補
